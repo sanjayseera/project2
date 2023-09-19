@@ -1,4 +1,4 @@
 # New Project
 
-This project was created from local system
-created by sanjay seera
+This project was created from local system.
+Created by sanjay seera
